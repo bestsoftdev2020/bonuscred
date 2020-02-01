@@ -77,7 +77,7 @@
         "autoprefixer": "9.4.4",
         "cross-env": "5.2.0",
         "js-beautify": "1.8.9",
-        "marked": "0.6.0",
+        "marked": "0.6.1",
         "postcss-cli": "6.1.1",
         "tailwindcss": "0.7.3",
         "webpack-bundle-analyzer": "3.0.3"
