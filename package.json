@@ -34,7 +34,7 @@
         "notistack": "0.4.1",
         "path-to-regexp": "2.4.0",
         "perfect-scrollbar": "1.4.0",
-        "prismjs": "1.15.0",
+        "prismjs": "1.21.0",
         "qs": "6.6.0",
         "raw-loader": "1.0.0",
         "rc-datepicker": "^5.0.14",
